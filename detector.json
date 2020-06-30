@@ -2,15 +2,15 @@
 	
 	
 	{
-		"name" : "Terrarium TV",
-		"packageName" : "com.nitroxenon.terrarium",
+		"name" : "Club Factory",
+		"packageName" : "club.fromfactory",
 		"alternative" : [
 			
 		]
 	},
 	{
-		"name" : "ShowBox",
-		"packageName" : "com.showbox.app",
+		"name" : "TikTok",
+		"packageName" : "com.zhiliaoapp.musically",
 		"alternative" : [
 			
 		]
