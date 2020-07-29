@@ -4,14 +4,20 @@
       "name":"Uc browser",
       "packageName":"com.UCMobile.intl",
       "alternative":[
-         
+         {
+            "altName":"JioBrowser",
+            "link":"https://play.google.com/store/apps/details?id=com.jio.web&hl=en"
+         }
       ]
    },
    {
       "name":"SHAREit",
       "packageName":"com.lenovo.anyshare.gps",
       "alternative":[
-        
+        {
+            "altName":"JioSwitch",
+            "link":"https://play.google.com/store/apps/details?id=com.reliance.jio.jioswitch"
+         }
       ]
    }
 ]
