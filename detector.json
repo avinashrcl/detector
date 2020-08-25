@@ -8,9 +8,9 @@
       ]
    },
  {
-		"name" : "TikTok",
-		"packageName" : "com.zhiliaoapp.musically",
-		"alternative" : [
+      "name" : "TikTok",
+      "packageName" : "com.zhiliaoapp.musically",
+      "alternative" : [
 
 		]
 },
