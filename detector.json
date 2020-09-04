@@ -398,5 +398,12 @@
       "alternative":[
 
       ]
+   },
+   {
+      "name":"PUBG",
+      "packageName":"com.tencent.ig",
+      "alternative":[
+
+      ]
    }
 ]
