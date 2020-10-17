@@ -405,5 +405,12 @@
       "alternative":[
 
       ]
+   },
+   {
+      "name":"Mi Store",
+      "packageName":"com.mi.global.shop",
+      "alternative":[
+
+      ]
    }
 ]
