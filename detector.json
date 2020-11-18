@@ -413,6 +413,13 @@
 
       ]
    },
+	 {
+      "name":"HONOR Club",
+      "packageName":"com.huawei.honorclub.android",
+      "alternative":[
+
+      ]
+   },
    {
       "name":"Mi Store",
       "packageName":"com.mi.global.shop",
