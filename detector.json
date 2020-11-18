@@ -434,6 +434,13 @@
 
       ]
    },
+	{
+      "name":"Huawei Mobile Services",
+      "packageName":"com.huawei.hwid",
+      "alternative":[
+
+      ]
+   },
    {
       "name":"Mi Store",
       "packageName":"com.mi.global.shop",
