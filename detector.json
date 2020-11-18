@@ -441,6 +441,112 @@
 
       ]
    },
+	{
+      "name":"Mi Fit",
+      "packageName":"com.xiaomi.hm.health",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mi File Manager",
+      "packageName":"com.mi.android.globalFileexplorer",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"ShareMe",
+      "packageName":"com.xiaomi.midrop",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mi Remote controlle",
+      "packageName":"com.duokan.phone.remotecontroller",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mi Credit",
+      "packageName":"com.micredit.in.gp",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"POCO Launcher",
+      "packageName":"com.mi.android.globallauncher",
+      "alternative":[
+
+      ]
+   },
+	
+	{
+      "name":"Mi Home",
+      "packageName":"com.xiaomi.smarthome",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mi Pay",
+      "packageName":"com.mipay.in.wallet",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mi Calculator",
+      "packageName":"com.miui.calculator",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mi Wi-Fi",
+      "packageName":"com.xiaomi.router",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Weather - By Xiaomi",
+      "packageName":"com.miui.weather2",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mint Launcher",
+      "packageName":"com.mi.android.go.globallauncher",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Mi Calendar",
+      "packageName":"com.xiaomi.calendar",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"realme Link",
+      "packageName":"com.realme.link",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"realme Community",
+      "packageName":"com.realmecomm.app",
+      "alternative":[
+
+      ]
+   },
    {
       "name":"Mi Store",
       "packageName":"com.mi.global.shop",
