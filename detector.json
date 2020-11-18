@@ -427,6 +427,13 @@
 
       ]
    },
+	{
+      "name":"Huawei health",
+      "packageName":"com.huawei.health",
+      "alternative":[
+
+      ]
+   },
    {
       "name":"Mi Store",
       "packageName":"com.mi.global.shop",
