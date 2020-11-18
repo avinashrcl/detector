@@ -406,6 +406,13 @@
 
       ]
    },
+	 {
+      "name":"Honor Store",
+      "packageName":"com.honor.global",
+      "alternative":[
+
+      ]
+   },
    {
       "name":"Mi Store",
       "packageName":"com.mi.global.shop",
