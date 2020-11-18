@@ -406,16 +406,23 @@
 
       ]
    },
-	 {
+   {
       "name":"Honor Store",
       "packageName":"com.honor.global",
       "alternative":[
 
       ]
    },
-	 {
+  {
       "name":"HONOR Club",
       "packageName":"com.huawei.honorclub.android",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"realme Store",
+      "packageName":"com.realmestore.app",
       "alternative":[
 
       ]
