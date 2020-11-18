@@ -547,6 +547,123 @@
 
       ]
    },
+	{
+      "name":"OnePlus Switch",
+      "packageName":"com.oneplus.backuprestore",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Connect",
+      "packageName":"com.oneplus.optvassistant",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Community",
+      "packageName":"net.oneplus.forums",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Weather",
+      "packageName":"net.oneplus.weather",
+      "alternative":[
+
+      ]
+   },{
+      "name":"Cricket Scores",
+      "packageName":"com.oneplus.opsports",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OxygenPlay",
+      "packageName":"com.oneplus.tv.launcher.appstore",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Icon Pack",
+      "packageName":"com.oneplus.iconpack.circle",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Buds",
+      "packageName":"com.oneplus.twspods",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Notes",
+      "packageName":"com.oneplus.note",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Work With Alexa",
+      "packageName":"com.oneplus.tv.alexa",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Launcher",
+      "packageName":"net.oneplus.launcher",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Gallery",
+      "packageName":"com.oneplus.gallery",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus TV",
+      "packageName":"com.oneplus.tv.sharealbum",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus File Manager",
+      "packageName":"com.oneplus.filemanager",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Account",
+      "packageName":"com.oneplus.account",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Zen Mode",
+      "packageName":"com.oneplus.brickmode",
+      "alternative":[
+
+      ]
+   },{
+      "name":"OnePlus Game Space",
+      "packageName":"com.oneplus.gamespace",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"OnePlus Retail Mode",
+      "packageName":"com.oneplus.screensaver.alarm",
+      "alternative":[
+
+      ]
+   },
+	{
+      "name":"Red Cable Club",
+      "packageName":"com.oneplus.membership",
+      "alternative":[
+
+      ]
+   },
    {
       "name":"Mi Store",
       "packageName":"com.mi.global.shop",
