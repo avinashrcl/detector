@@ -664,6 +664,14 @@
 
       ]
    },
+	
+	{
+      "name":"VidMate",
+      "packageName":"com.nemo.vidmate",
+      "alternative":[
+
+      ]
+   },
    {
       "name":"Mi Store",
       "packageName":"com.mi.global.shop",
